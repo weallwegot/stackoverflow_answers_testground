@@ -9,3 +9,5 @@
 
 
 [Imagine 2 log files with text and timestamps, now match messages and only give messages that result in the lowest overall elapsed time between them. i think?](https://stackoverflow.com/questions/51411878/how-to-find-a-sequence-of-elements-in-an-only-kinda-ordered-list/51413058#51413058)
+
+[Somehting about counting letters occurrences in a loop. nesting. idk this questions had -6 votes so...](https://stackoverflow.com/questions/51450883/only-one-for-loop-runs-in-python/51451060#51451060)
