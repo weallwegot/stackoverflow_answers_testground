@@ -11,3 +11,6 @@
 [Imagine 2 log files with text and timestamps, now match messages and only give messages that result in the lowest overall elapsed time between them. i think?](https://stackoverflow.com/questions/51411878/how-to-find-a-sequence-of-elements-in-an-only-kinda-ordered-list/51413058#51413058)
 
 [Somehting about counting letters occurrences in a loop. nesting. idk this questions had -6 votes so...](https://stackoverflow.com/questions/51450883/only-one-for-loop-runs-in-python/51451060#51451060)
+
+
+[Calling module functions with easier syntax.. this was a creative solve IMHO, not very practical though](https://stackoverflow.com/questions/51457805/calling-all-attributes-of-an-object-just-by-writting-the-object-name-once-in-pyt/51459688#51459688)
