@@ -14,3 +14,7 @@
 
 
 [Calling module functions with easier syntax.. this was a creative solve IMHO, not very practical though](https://stackoverflow.com/questions/51457805/calling-all-attributes-of-an-object-just-by-writting-the-object-name-once-in-pyt/51459688#51459688)
+
+[sets and lists and intersections](https://stackoverflow.com/questions/51467037/python-list-get-the-same-items/51467134#51467134)
+
+[strip some letters from string in pandas df](https://stackoverflow.com/questions/51467164/how-to-use-position-within-the-string-to-change-each-string-in-a-pandas-datafram/51467322#51467322)
