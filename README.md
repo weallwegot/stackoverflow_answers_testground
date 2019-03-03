@@ -18,3 +18,5 @@
 [sets and lists and intersections](https://stackoverflow.com/questions/51467037/python-list-get-the-same-items/51467134#51467134)
 
 [strip some letters from string in pandas df](https://stackoverflow.com/questions/51467164/how-to-use-position-within-the-string-to-change-each-string-in-a-pandas-datafram/51467322#51467322)
+
+[exception handling, but then raising](https://stackoverflow.com/questions/54974047/want-my-code-to-raise-a-specific-type-or-error-but-print-the-orginal-error/54974103#54974103)
