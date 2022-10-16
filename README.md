@@ -24,3 +24,5 @@
 [how to find closest values between 2 arrays](https://stackoverflow.com/questions/55174874/how-to-find-closest-values-between-2-arrays/55175060#55175060)
 
 [bloomberg scrape, just a comment](https://stackoverflow.com/questions/56230434/how-to-get-html-from-url-using-python)
+
+[working with a specific api to get some data out, not sure if I answered this because I didn't use pandas, but not sure why they needed pandas in the first place](https://stackoverflow.com/questions/74019073/how-to-get-nested-data-with-pandas-and-request/74084021#74084021)
